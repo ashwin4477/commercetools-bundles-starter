@@ -6,11 +6,11 @@ const config = {
     cloudIdentifier: "gcp-us",
     env: {
         production: {
-            applicationId: "",
-            url: "",
+            applicationId: "cl94k9rym91841601v4q7hhjtsq",
+            url: "https://bunrepos.vercel.app",
         },
         development: {
-            initialProjectKey: ""
+            initialProjectKey: "bundleorg"
         }
     },
     oAuthScopes: {
